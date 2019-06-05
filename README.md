@@ -16,7 +16,6 @@ Pycharm with Python 3.7 🔥🚀
 ## The game changes its level with your score
 ![alt text](https://raw.githubusercontent.com/singhsanket143/SnakeGameGUI-Python/master/snaps/1.png)
 
-
 #Demo
 
 ![alt text](https://raw.githubusercontent.com/singhsanket143/SnakeGameGUI-Python/master/snaps/3.png)
