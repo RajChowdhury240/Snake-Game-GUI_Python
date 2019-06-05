@@ -20,3 +20,4 @@ Pycharm with Python 3.7 🔥🚀
 #Demo
 
 ![alt text](https://raw.githubusercontent.com/singhsanket143/SnakeGameGUI-Python/master/snaps/3.png)
+
