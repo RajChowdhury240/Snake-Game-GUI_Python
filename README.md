@@ -1,6 +1,5 @@
 # Snake-Game-GUI_Python
-## 'Pycharm with Python 3.7 🔥🚀'
-
+### `Pycharm with Python 3.7 🔥🚀`
 
 
 ** This is a python based GUI game of Snake **
