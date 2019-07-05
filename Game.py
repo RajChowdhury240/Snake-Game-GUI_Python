@@ -139,5 +139,3 @@ while True:
         level+=5
         initscore = score
     fpsController.tick(level)
-
-    
