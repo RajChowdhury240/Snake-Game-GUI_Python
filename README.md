@@ -18,3 +18,4 @@
 ## Demo
 
 ![alt text](https://raw.githubusercontent.com/singhsanket143/SnakeGameGUI-Python/master/snaps/3.png)
+
